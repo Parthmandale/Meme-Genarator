@@ -1,1 +1,2 @@
 # Meme-Genarator
+This JavaScript project generates random memes by calling an API. Each click on the "Generate a Meme" button displays a new meme. It's a fun way to explore APIs and integrate them into web applications.
